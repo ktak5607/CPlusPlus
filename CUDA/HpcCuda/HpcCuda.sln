@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HpcCuda", "HpcCuda\HpcCuda.vcxproj", "{98500D24-10B4-4B89-8A06-B6A30CFC295F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98500D24-10B4-4B89-8A06-B6A30CFC295F}.Debug|x64.ActiveCfg = Debug|x64
+		{98500D24-10B4-4B89-8A06-B6A30CFC295F}.Debug|x64.Build.0 = Debug|x64
+		{98500D24-10B4-4B89-8A06-B6A30CFC295F}.Release|x64.ActiveCfg = Release|x64
+		{98500D24-10B4-4B89-8A06-B6A30CFC295F}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8701A1A-A768-4262-8637-6028FB132A2F}
+	EndGlobalSection
+EndGlobal
